@@ -1,1 +1,1 @@
-fastai library implementations and toy examples.
+fastai library implementations and examples.
